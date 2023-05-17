@@ -19,7 +19,7 @@ body{
     background-position: left;
 }
 .logo{
-    width: 140px%;
+    width: 140px;
     height: 5vh;
 
 }
@@ -325,7 +325,7 @@ nav .fa-solid{
 }
 @media only screen and (max-width: 600px){
     #header{
-        background-image: url(images/phone-background.png);
+        background-image: url(images/phone-background-small.png);
     }
     .header-text{
         margin-top: 100%;
