@@ -1,0 +1,38 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: antiquewhite;
+}
+.text {
+  padding-left: 250px;
+  padding-right: 80px;
+}
+/* .content-box {
+    border: 1px solid #ccc;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    width: 300px;
+} */
+.content {
+  border: 1.5px solid rgb(0, 0, 0);
+  width: 240px;
+  background-color: rgb(255, 156, 156);
+  display: block;
+  margin-top: -620px;
+  padding-bottom: 500px;
+  border-radius: 2px;
+}
+.content h2 {
+  text-align: center;
+}
+.content li {
+  padding-left: 10px;
+}
+.webd-img {
+  justify-content: center;
+  align-items: center;
+  display: block;
+  width: 100%;
+}
